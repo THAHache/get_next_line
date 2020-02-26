@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line_utils.c                              :+:      :+:    :+:   */
+/*   get_next_line_utils_bonus.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: jperez-r <joserabasot@gmail.com>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/02/26 06:24:49 by jperez-r          #+#    #+#             */
-/*   Updated: 2020/02/26 07:21:25 by jperez-r         ###   ########.fr       */
+/*   Created: 2020/02/26 06:23:28 by jperez-r          #+#    #+#             */
+/*   Updated: 2020/02/26 07:21:33 by jperez-r         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 size_t	ft_strlen(const char *s)
 {

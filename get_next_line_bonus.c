@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line.c                                    :+:      :+:    :+:   */
+/*   get_next_line_bonus.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: jperez-r <joserabasot@gmail.com>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2020/02/26 06:25:38 by jperez-r          #+#    #+#             */
-/*   Updated: 2020/02/26 17:45:24 by jperez-r         ###   ########.fr       */
+/*   Created: 2020/02/26 06:25:30 by jperez-r          #+#    #+#             */
+/*   Updated: 2020/02/26 06:44:23 by jperez-r         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 int	put_line(char **line, char **aux)
 {
